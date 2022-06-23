@@ -1,5 +1,5 @@
 
-// modal
+// llamado modal
 let modal = document.querySelector('app-modal')
 let abrir = document.querySelector('#open')
 let cerrar = document.querySelector('#close')

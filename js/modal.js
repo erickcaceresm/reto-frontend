@@ -78,9 +78,7 @@ class Modal extends HTMLElement {
     .card_text{
       margin: 0;
       text-transform: capitalize;
-    }
-    
-   
+    }  
     </style>
     `
 
